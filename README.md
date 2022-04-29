@@ -1,6 +1,6 @@
 ﻿README.md
 @@ -1,29 +1,30 @@
-# K.A. Construction React Single Page Landing
+# Alphaworks -  Bitwise React Apprenticeship Program
 ## Table of contents
 - [Overview](#overview)
   - [The challenge](#the-challenge)
