@@ -1,0 +1,144 @@
+.container {
+  display: inline-block;
+  background-image: url(../public/images/oneBackgroundb.jpg);
+  background-attachment: fixed;
+  background-position: center -26px;
+  width: 100vw;
+  height: 720px;
+  background-repeat: no-repeat;
+  background-color: #000000;
+  margin: auto;
+}
+
+.logoRow {
+  display: inline-block;
+  margin-left: 157px;
+  margin-top: 16px;
+  width: 100vw;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.logo {
+  color: white;
+  height: 46px;
+  margin-top: -06px;
+  float: left;
+}
+.timely {
+  font-family: Great Vibes;
+  color: white;
+  float: right;
+  font-size: 36px;
+  line-height: 54px;
+  float: left;
+  margin-left: 10px;
+  margin-top: -6px;
+}
+.oneMenu {
+  position: relative;
+  list-style: none;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 400;
+  color: white;
+  margin-right: 326px;
+  margin-top: 4px;
+}
+#menuProduct {
+  transition: background-color 0.5s;
+  float: right;
+  margin-right: 28px;
+}
+#menuProduct:hover {
+  background-color: #6b7280;
+  color: black;
+}
+#menuAbout {
+  color: white;
+  transition: background-color 0.5s;
+  float: right;
+}
+#menuAbout:hover {
+  background-color: #6b7280;
+  color: black;
+}
+
+#menuContact {
+  color: white;
+  transition: background-color 0.5s;
+  float: right;
+  margin-left: 28px;
+}
+#menuContact:hover {
+  background-color: #6b7280;
+  color: black;
+}
+/*  ------------ Begin Text      --------------*/
+.textWrapper {
+  margin-top: 120px;
+  margin-left: 158px;
+  width: 432px;
+  font-weight: 400;
+  text-align: left;
+  color: white;
+  position: relative;
+}
+.largeText {
+  font-size: 64px;
+  line-height: 96px;
+}
+.mediumText {
+  font-size: 36px;
+  line-height: 54px;
+}
+.normalText {
+  font-size: 24px;
+  line-height: 36px;
+  margin-bottom: 24px;
+}
+/*-----  Begin buttons   ------*/
+.productsButton {
+  font-family: Playfair Display;
+  border-style: none;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 3%;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 6px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 8px;
+  width: 128px;
+  margin-right: 18px;
+  float: left;
+  background-color: #374151;
+  transition: background-color 0.5s;
+  color: white;
+}
+
+.productsButton:hover {
+  background-color: rgb(20, 20, 102);
+}
+
+.videoButton {
+  font-family: Playfair Display;
+  border-style: none;
+  width: 128px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 3%;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 6px;
+  border-radius: 8px;
+  transition: background-color 0.5s;
+}
+.videoButton:hover {
+  background-color: rgb(20, 20, 102);
+  color: white;
+}

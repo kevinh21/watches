@@ -1,0 +1,25 @@
+.navWrapper {
+  /* margin-top: 10px; */
+  font-size: 26px;
+  color: white;
+  position: relative;
+  text-align: right;
+  margin-right: 200px;
+  z-index: 1;
+  float: right;
+  position: relative;
+}
+
+.product {
+  float: right;
+  margin-left: 16px;
+}
+.about {
+  float: right;
+  margin-left: 16px;
+}
+
+.contact {
+  float: right;
+  margin-left: 16px;
+}

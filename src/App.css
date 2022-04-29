@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.App {
+  font-family: "Playfair Display", serif;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+  /* -ms-overflow-style: none;
+  scrollbar-width: none; */
+}

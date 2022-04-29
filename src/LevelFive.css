@@ -1,0 +1,28 @@
+.fiveContainer {
+  display: inline-block;
+  text-align: center;
+  background-color: #6b7280;
+  width: 100vw;
+  height: 368px;
+  margin-bottom: -4px;
+  /* position: relative; */
+}
+
+.fiveText {
+  margin-left: 144px;
+  width: 768px;
+  height: 162px;
+  margin-top: 103px;
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 400;
+  color: white;
+  float: left;
+  text-align: center;
+}
+
+.fiveImage {
+  padding-top: 16px;
+  float: left;
+  margin-left: 12px;
+}

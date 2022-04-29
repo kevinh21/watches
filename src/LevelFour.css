@@ -1,0 +1,30 @@
+.fourContainer {
+  background-color: #e5e7eb;
+  display: inline-block;
+  text-align: center;
+  width: 100vw;
+  height: 368px;
+  position: relative;
+  padding-top: 16px;
+  margin-top: -4px;
+  margin-bottom: -4px;
+}
+
+.fourText {
+  margin-left: 14px;
+  width: 768px;
+  height: 162px;
+  margin-top: 104px;
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 400;
+  color: white;
+  float: left;
+  text-align: center;
+  color: #1f2937;
+}
+
+.fourImage {
+  margin-left: 156px;
+  float: left;
+}
